@@ -1,0 +1,70 @@
+:root {
+    --tituloHeight : 40px;
+}
+body{
+    margin:0;
+    padding: 0;
+    background: url("fondo2.jpeg") center/cover no-repeat;
+}
+#nombre{
+    top:0;
+    background-color: rgb(71, 168, 71);
+    position: fixed;
+    width:100%;
+    height: var(--tituloHeight);
+    margin:0;
+    padding: 0;
+    z-index: 2;
+}
+h1{
+    text-align: center;
+    color: red;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+
+}
+#miDescripcion{
+    margin-top: var(--tituloHeight);
+    color:blue;
+    padding-top: 10px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-around;
+}
+article{
+    width: 25%;
+    min-width: 150px;
+    background-color: aquamarine;
+    margin: 3px;
+    border-radius: 7px;
+}
+iframe{
+    /* border-start-start-radius: 7px; */
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    width: 100%;
+    background-color: black;
+}
+.titulo{
+    background-color: red;
+    text-align: center;
+}
+.datos{
+    padding-left: 10px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(71, 168, 71);
+    /* height: 50px; */
+}
+footer h3{
+    color:white;
+    text-align: center;
+    margin: 8px;
+}
