@@ -81,9 +81,6 @@ iframe{
     display:flex;
     padding-top: 7px;
 }
-.repoLink{
-    /* margin:auto; */
-}
 .btnContenedor{
     display: flex;
 }
