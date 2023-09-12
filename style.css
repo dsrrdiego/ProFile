@@ -103,11 +103,6 @@ footer{
     background-color: rgb(71, 168, 71);
 }
 
-#cv{
-    width: 100%;
-    height: 2000px;
-    background: url(imagenes/cv.jpg) center/cover no-repeat;
-}
 footer h3{
     color:white;
     text-align: center;
