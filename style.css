@@ -50,7 +50,7 @@ article{
     margin: 1px;
     margin-bottom: 30px;
     border-radius: var(--miRadio);
-    transition: 1s width;
+    transition: 0.3s width;
 }
 article:hover{
     width:22%;

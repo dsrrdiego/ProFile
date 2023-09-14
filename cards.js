@@ -55,21 +55,31 @@ let card=[
         "linkTexto":"Visitar!!"
     },
     {
-        "titulo":"Dado 3D",
-        "video":"https://www.youtube.com/embed/Bg2e-6djdRk",
-        "categoria":"Gráficos 3D",
-        "fecha":"2023",
-        "descripcion":"Animación sencilla en 3D de un dado controlado por el mouse",
-        "lenguaje":"JavaScript",
-        "repo":"https://github.com/dsrrdiego/dado-3d.git",
-        "link":"https://dsrrdiego.github.io/dado-3d/",
+        "titulo":"La Tierra Ataca",
+        "video":"https://www.youtube.com/embed/PCbXwPe_bR4",
+        "categoria":"Juego-Dos",
+        "fecha":"2010",
+        "descripcion":"Replica basica del X-COM, con graficas simbólicas",
+        "lenguaje":"qb64",
+        "repo":"https://github.com/dsrrdiego/la-tierra-ataca.git",
+        "link":"",
         "linkTexto":"Visitar!!!"
     }
+    
 ];
-
-
-
-       
+/*
+{
+        "titulo":""",
+        "video":"",
+        "categoria":"",
+        "fecha":"",
+        "descripcion":"",
+        "lenguaje":"",
+        "repo":"",
+        "link":"",
+        "linkTexto":"Visitar!!!"
+    }
+*/
 
 
 
