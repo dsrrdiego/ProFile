@@ -44,6 +44,7 @@ section{
 }
 
 article{
+    position: relative;
     width: 20%;
     min-width: 230px;
     background-color: rgb(73, 142, 85);
@@ -51,6 +52,7 @@ article{
     margin-bottom: 30px;
     border-radius: var(--miRadio);
     transition: 0.3s width;
+    min-height: 470px;
 }
 article:hover{
     width:22%;
@@ -87,7 +89,10 @@ iframe{
     padding-top: 7px;
 }
 .btnContenedor{
+    position: absolute;
     display: flex;
+    width:100%;
+    bottom:1px;
 }
 .boton{
     color:green;
