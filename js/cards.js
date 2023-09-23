@@ -77,6 +77,18 @@ let card = [
         "linkTexto": "Visitar!!!"
     },
     {
+        "titulo": "Greedy y Backtracking",
+        "video": "",
+        "imagen":"subte.png",
+        "categoria": "Back",
+        "fecha": "2023",
+        "descripcion": "Técnicas aplicadas a encontrar la mínima construcción de túneles para una red de subtes",
+        "lenguaje": "Java",
+        "repo": "https://github.com/dsrrdiego/BackTrackingYGreedy.git",
+        "link": "",
+        "linkTexto": "Visitar!!!"
+    },
+    {
         "titulo": "La Tierra Ataca",
         "video": "https://www.youtube.com/embed/PCbXwPe_bR4",
         "categoria": "Juego-Dos",
@@ -88,15 +100,16 @@ let card = [
         "linkTexto": "Visitar!!!"
     },
     {
-        "titulo":"Varios ya perdidos:",
-        "video":"",
-        "categoria":"",
-        "fecha":"",
-        "descripcion":"* Interprete de programación para escribir código orientado a objetos para BASIC. * Administrador de pacientes para consultorios médicos. * Sistema administrativos para planillas CONTRALOR de insituciones educativas. * Programas de administración y gestión de clientes. * Réplicas de varios vide-juegos: De carrera - estilo doom (con motores gráficos propios)- sistemas de dibujo 3d al estilo sketch-up. * etc.",
-        "lenguaje":"Varios",
-        "repo":"",
-        "link":"",
-        "linkTexto":"Visitar!!!"
+        "titulo": "Varios ya perdidos:",
+        "video": "",
+        "imagen":"lost.png",
+        "categoria": "",
+        "fecha": "",
+        "descripcion": "* Interprete de programación para escribir código orientado a objetos para BASIC. * Administrador de pacientes para consultorios médicos. * Sistema administrativos para planillas CONTRALOR de insituciones educativas. * Programas de administración y gestión de clientes. * Réplicas de varios vide-juegos: De carrera - estilo doom (con motores gráficos propios)- sistemas de dibujo 3d al estilo sketch-up. * etc.",
+        "lenguaje": "Varios",
+        "repo": "",
+        "link": "",
+        "linkTexto": "Visitar!!!"
     }
 
 ];
@@ -112,7 +125,7 @@ let card = [
         "link":"",
         "linkTexto":"Visitar!!!"
     }
-{
+
     
     
 */

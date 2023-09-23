@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(imagenes/fondo2.jpeg) center/cover no-repeat;
+    background: url(../imagenes/fondo.jpeg) center/cover no-repeat;
 }
 
 #nombre{
@@ -58,12 +58,11 @@ article:hover{
     width:22%;
 }
 
-iframe{
+.video{
     border-top-left-radius: var(--miRadio);
     border-top-right-radius: var(--miRadio);
     width: 100%;
-    max-height: 200px;
-    background-color: black;
+    height: 230px;
 }
 
 .titulo{
