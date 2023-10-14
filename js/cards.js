@@ -4,7 +4,7 @@ let card = [
         "video": "https://www.youtube.com/embed/dgex1WPOCYY",
         "categoria": "Plataforma de audio",
         "fecha": "2022",
-        "descripcion": "Plataforma de audio para musicos independientes al estilo youtube, con consumop de api",
+        "descripcion": "Plataforma de audio para musicos independientes al estilo youtube, con API",
         "lenguaje": "Js",
         "repo": "https://github.com/dsrrdiego/Emerge.git",
         "link": "https://dsrrdiego.github.io/Emerge/",
